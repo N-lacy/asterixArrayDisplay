@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1584125429 source:c:\users\nakawung\desktop\c\asterixarraydisplay\main.c
+	<stdio.h>
+	<stdlib.h>
+	"letters.h"
+	<conio.h>
+
+1584292953 c:\users\nakawung\desktop\c\asterixarraydisplay\letters.h
+	<windows.h>
+
+1584296914 source:f:\programing\c\asterixarraydisplay\main.c
+	<stdio.h>
+	<stdlib.h>
+	"letters.h"
+	<conio.h>
+
+1589565539 f:\programing\c\asterixarraydisplay\letters.h
+	<windows.h>
+
